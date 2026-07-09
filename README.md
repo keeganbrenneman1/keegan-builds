@@ -8,9 +8,9 @@ scoped as prototypes — solving problems I know firsthand.
 
 | Project | Problem | Status | Stack |
 |---|---|---|---|
-| [Text Analytics Tool](https://github.com/keeganbrenneman1/text-analytics-explorer) | Theme/sentiment extraction + prescriptive next-action layer | In progress | TBD |
+| [Text Analytics Tool](https://github.com/keeganbrenneman1/text-analytics-explorer) | Category extraction + prescriptive next-action layer | In progress | TBD |
 | [Interview Readiness App](link) | Templated interview prep, leveraging structured Q&A | In progress | TBD |
-| [Expat Navigator](link) | Belgian relocation logistics I lived through | Prototype | TBD |
-| [Apartment Finder](link) | Belgian rental search pain points | Prototype | TBD |
+| [Expat Navigator](link) | Belgian relocation logistics I lived through | Need to copy over | TBD |
+| [Apartment Finder](link) | Belgian rental search pain points | Need to copy over | TBD |
 | [Strava Extension](link) | Custom layer on Strava API | Planned | TBD |
 | [Lorcana/MtG Deck Builder](link) | Deck optimization for fun | Planned | TBD |

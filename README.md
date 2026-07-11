@@ -12,7 +12,6 @@ scoped as prototypes — solving problems I know firsthand.
 | [Interview Readiness App](link) | Stage by stage, templated interview prep, leveraging structured Q&A | Ongoing | TBD |
 | [Job Application Tracker](link) | Kanban application tracker | Definition | TBD |
 | [Lorcana/MtG Deck Builder](link) | (for fun) TCG deck builder | Definition | TBD |
-| [Expat Navigator](link) | Belgian relocation logistics I lived through | Need to copy over | TBD |
-| [Apartment Finder](link) | Belgian rental search aggregator | Need to copy over | TBD |
+| [Expat Navigator](link) | Belgian relocation logistics I lived through | On hold; definition mostly done | TBD |
 | [Strava Extension](link) | Custom layer on Strava API | Planned | TBD |
-
+| [Apartment Finder](link) | Belgian rental search aggregator | On hold | TBD |

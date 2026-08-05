@@ -14,7 +14,6 @@ scoped as prototypes — solving problems I know firsthand.
 | [Interview Readiness App](link) | Stage by stage, templated interview prep, leveraging structured Q&A | Paused | TBD |
 | [Resume Optimizer](link) | Take a resume + target role to optimize it accordingly | Paused | TBD |
 | [Job Application Tracker](link) | Kanban application tracker | Paused | TBD |
-
 | [Expat Navigator](link) | Belgian relocation logistics I lived through | On hold; definition mostly done | TBD |
 | [Strava Extension](link) | Custom layer on Strava API | Planned | TBD |
 | [Apartment Finder](link) | Belgian rental search aggregator | On hold | TBD |

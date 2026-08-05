@@ -9,7 +9,7 @@ scoped as prototypes — solving problems I know firsthand.
 | Project | Problem | Status | Stack |
 |---|---|---|---|
 | [Text Analytics Tool](https://github.com/keeganbrenneman1/text-analytics-explorer) | Category extraction + prescriptive next-action layer | In progress | TBD |
-| [Interview Readiness App](link) | Stage by stage, templated interview prep, leveraging structured Q&A | Ongoing | TBD |
+| [Interview Readiness App](link) | Stage by stage, templated interview prep, leveraging structured Q&A | Paused | TBD |
 | [Resume Optimizer](link) | Take a resume + target role to optimize it accordingly | Planned | TBD |
 | [Job Application Tracker](link) | Kanban application tracker | Definition | TBD |
 | [Lorcana/MtG Deck Builder](link) | (for fun) TCG deck builder | In progress | TBD |

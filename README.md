@@ -16,3 +16,4 @@ scoped as prototypes — solving problems I know firsthand.
 | [Expat Navigator](link) | Belgian relocation logistics I lived through | On hold; definition mostly done | TBD |
 | [Strava Extension](link) | Custom layer on Strava API | Planned | TBD |
 | [Apartment Finder](link) | Belgian rental search aggregator | On hold | TBD |
+| [Recruiting Assistant](link) | JD analysis + step by step interview help | In progress | TBD |

@@ -9,11 +9,12 @@ scoped as prototypes — solving problems I know firsthand.
 | Project | Problem | Status | Stack |
 |---|---|---|---|
 | [Text Analytics Tool](https://github.com/keeganbrenneman1/text-analytics-explorer) | Category extraction + prescriptive next-action layer | In progress | TBD |
+| [Lorcana/MtG Deck Builder](link) | (for fun) TCG deck builder | In progress | TBD |
+| [Recruiting Assistant]((https://github.com/keeganbrenneman1/Job-Application-Assistant)) | JD analysis + step by step interview help | In progress | TBD |
 | [Interview Readiness App](link) | Stage by stage, templated interview prep, leveraging structured Q&A | Paused | TBD |
 | [Resume Optimizer](link) | Take a resume + target role to optimize it accordingly | Paused | TBD |
 | [Job Application Tracker](link) | Kanban application tracker | Paused | TBD |
-| [Lorcana/MtG Deck Builder](link) | (for fun) TCG deck builder | In progress | TBD |
+
 | [Expat Navigator](link) | Belgian relocation logistics I lived through | On hold; definition mostly done | TBD |
 | [Strava Extension](link) | Custom layer on Strava API | Planned | TBD |
 | [Apartment Finder](link) | Belgian rental search aggregator | On hold | TBD |
-| [Recruiting Assistant]((https://github.com/keeganbrenneman1/Job-Application-Assistant)) | JD analysis + step by step interview help | In progress | TBD |
